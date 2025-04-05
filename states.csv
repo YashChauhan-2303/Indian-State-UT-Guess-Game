@@ -1,0 +1,37 @@
+state,x,y
+Ladakh,-135,386
+Jammu Kashmir,-209,381
+Himachal Pradesh,-150,330
+Punjab,-202,297
+Uttarakhand,-97,273
+Uttar Pradesh,-53,166
+Haryana,-177,245
+Rajasthan,-255,171
+Gujarat,-321,43
+Bihar,91,131
+Madhya Pradesh,-127,56
+Maharashtra,-190,-65
+Telangana,-101,-117
+Karnataka,-205,-228
+Goa,-260,-197
+Kerala,-194,-360
+Tamil Nadu,-119,-347
+Andhra Pradesh,-111,-209
+Odisha,57,-35
+Chhattisgarh,-22,-15
+Jharkhand,75,65
+West Bengal,141,60
+Arunachal Pradesh,335, 233
+Nagaland,346, 164
+Assam,299, 165
+Meghalaya,252,134
+Manipur,334,119
+Tripura,270,81
+Mizoram,305,71
+Sikkim,180,168
+Delhi,-157,225
+Andaman and Nicobar Islands,336,-281
+Chandigarh,-169,288
+Dadra and Nagar Haveli and Daman and Diu,-288,-18
+Lakshadweep,-326,-333
+Puducherry,-209,-333
